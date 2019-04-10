@@ -1,0 +1,2 @@
+# PirmasisProjectas
+hi :)
